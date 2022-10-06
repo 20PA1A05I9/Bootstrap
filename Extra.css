@@ -1,0 +1,31 @@
+/*
+.ramp {
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+*/
+
+.card {
+    overflow: hidden;
+}
+
+.r2 {
+    object-fit: cover;
+    object-position: 20% 90%;
+}
+
+footer p {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.mx-1 {
+    margin-top: 2px;
+    display: flex;
+    flex-direction: row;
+}
+
+.b1 {
+    margin-right: 1vw;
+}

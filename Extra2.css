@@ -1,0 +1,33 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+footer p {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.c1 {
+    background-color: #047BD5;
+}
+
+.r1 {
+    padding-top: 10px;
+}
+
+.r2 {
+    margin: 20px 0px;
+}
+
+.r3 {
+    margin-top: 20px;
+}
+
+.con {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    margin-bottom: 25px;
+}
